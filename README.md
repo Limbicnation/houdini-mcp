@@ -1,5 +1,7 @@
 # HoudiniMCP – Connect Houdini to Claude via Model Context Protocol
 
+Fork of houdini-mcp with extended capabilities for Solaris/Karma rendering, USD pipeline workflows, and advanced procedural asset generation. Enhanced for game engine integration and batch processing automation.
+
 **HoudiniMCP** allows you to control **SideFX Houdini** from **Claude** using the **Model Context Protocol (MCP)**. It consists of:
 
 1. A **Houdini plugin** (Python package) that listens on a local port (default `localhost:9876`) and handles commands (creating and modifying nodes, executing code, etc.).  
